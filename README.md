@@ -1,6 +1,6 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/Kamo-98/Hello-World-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Master of Economic Science student at the University of the Witwatersrand. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
