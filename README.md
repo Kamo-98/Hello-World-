@@ -31,7 +31,18 @@ Higher Education
 -Master of Economic Science - University of the Witwatersrand (2020)
 
 ### Skills
-### Header 3
+Technical Skills
+- Stata
+- Mathematica
+- Latex
+- Matlab
+- Microsoft Office
+
+Soft Skills
+- Problem solving
+- Team work
+- Communication
+- Critical thinking
 
 
 
