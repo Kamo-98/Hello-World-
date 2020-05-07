@@ -1,5 +1,6 @@
 ## About me
-I was born and bred in Thokoza, a township located in the south of the City of Ekurhuleni. I enjoy reading academic papers as well as some Netflix and chill. I am currently doing my MasterS in Economic Science at the University of the Witwatersrand. 
+I was born and bred in Thokoza, a township located in the south of the City of Ekurhuleni. I enjoy reading academic papers as well as 
+some Netflix and chill. I am currently doing my MasterS in Economic Science at the University of the Witwatersrand. 
 My university degrees gave me an excellent combination of skills in pure mathematics, applied mathematics,
 economics and finance. I am enth
 usias
