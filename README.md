@@ -1,10 +1,8 @@
 ## About me
 I was born and bred in Thokoza, a township located in the south of the City of Ekurhuleni. I enjoy reading academic papers as well as 
-some Netflix and chill. I am currently doing my MasterS in Economic Science at the University of the Witwatersrand. 
+some Netflix and chill. I am currently doing my Masters in Economic Science at the University of the Witwatersrand. 
 My university degrees gave me an excellent combination of skills in pure mathematics, applied mathematics,
-economics and finance. I am enth
-usias
-tic, respectful and curious.
+economics and finance. I am enthusiastic, respectful and curious.
 I have a
 passion for solving different problems in different disciplines, this helps me main
 tain a solutionist type of thinking
@@ -20,9 +18,17 @@ and aspiring economist.
 
 
 ### Education
-Lower Education                                                                                                                Buhlebuzile Secondary School (2011-2015)
+Lower Education
 
-Higher Education                                                                                                                          Bachelor of Economic Science - University of the Witwatersrand (2016-2018)                                                         Bachelor of Economic Science (Hons) - University of the Witwatersrand (2019)                                                             Master of Economic Science - University of the Witwatersrand (2020)
+Buhlebuzile Secondary School (2011-2015)
+
+Higher Education
+
+Bachelor of Economic Science - University of the Witwatersrand (2016-2018) 
+
+Bachelor of Economic Science (Hons) - University of the Witwatersrand (2019)
+
+Master of Economic Science - University of the Witwatersrand (2020)
 
 ### Skills
 ### Header 3
