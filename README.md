@@ -11,12 +11,6 @@ corporate drives me to always learn and sharpen my skills as an upcoming young p
 ofessional
 and aspiring economist.
 
-
-
-### Projects
-
-
-
 ### Education
 Lower Education
 - Buhlebuzile Secondary School (2011-2015)
@@ -45,8 +39,5 @@ Soft Skills
 
 
 
-### Jekyll Themes
 
-
-### Support or Contact
 
