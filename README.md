@@ -20,13 +20,9 @@ and aspiring economist.
 
 
 ### Education
-Lower Education
-Buhlebuzile Secondary School (2011-2015)
+Lower Education                                                                                                                Buhlebuzile Secondary School (2011-2015)
 
-Higher Education
-Bachelor of Economic Science - University of the Witwatersrand (2016-2018)
-Bachelor of Economic Science (Hons) - University of the Witwatersrand (2019)
-Master of Economic Science - University of the Witwatersrand (2020)
+Higher Education                                                                                                                          Bachelor of Economic Science - University of the Witwatersrand (2016-2018)                                                         Bachelor of Economic Science (Hons) - University of the Witwatersrand (2019)                                                             Master of Economic Science - University of the Witwatersrand (2020)
 
 ### Skills
 ### Header 3
