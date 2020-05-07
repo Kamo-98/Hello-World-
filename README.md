@@ -6,8 +6,8 @@
 
 
 
-# Education
-## Skills
+### Education
+### Skills
 ### Header 3
 
 
